@@ -1,4 +1,7 @@
-# JKFLIPFLOP-USING-IF-ELSE
+ Developed by: Jayani N
+ RegisterNumber: 212224100025
+
+# JKFLIPFLOP
 
 **AIM:** 
 
@@ -53,11 +56,6 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 5.	For different input combinations generate the timing diagram.
 
 **PROGRAM**
-
-         /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
-         Developed by: Jayani N
-         RegisterNumber: 212224100025
-         */
          
          module exp7(q,qb,j,k,clock);
          input j,k,clock;
