@@ -1,5 +1,6 @@
- Developed by: Jayani N
- RegisterNumber: 212224100025
+   Developed by: Jayani N
+   
+   RegisterNumber: 212224100025
 
 # JKFLIPFLOP
 
