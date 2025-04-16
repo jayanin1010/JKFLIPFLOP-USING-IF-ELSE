@@ -34,6 +34,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 ## Truth table:
 
+![Screenshot 2025-04-16 092011](https://github.com/user-attachments/assets/4ac821d4-e621-4ec1-b738-948bf95f60c5)
+
 
 
 **Procedure**
